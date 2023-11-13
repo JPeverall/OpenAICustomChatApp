@@ -1,0 +1,2 @@
+nodeProcessCommandLine: "D:\Program Files\nodejs\node.exe"
+entryPoint: "server/server.js"
